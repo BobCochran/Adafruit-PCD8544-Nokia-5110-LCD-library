@@ -20,4 +20,8 @@ Place the Adafruit_PCD8544 library folder your <arduinosketchfolder>/libraries/ 
 
 You will also have to download the Adafruit GFX Graphics core which does all the circles, text, rectangles, etc. You can get it from
 https://github.com/adafruit/Adafruit-GFX-Library
-and download/install that library as well 
+and download/install that library as well
+
+This specific library features the content of pull request #47 from @sergev. The PR
+was cherry-picked by @BobCochran.
+ 
